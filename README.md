@@ -39,7 +39,7 @@ pip install rich
 ## Installation
 
 ```bash
-git clone https://github/abdellahi-ndiaye/sebil.git
+git clone https://github/abdellahi-ndiaye/sebil-CLI.git
 cd sebil
 chmod +x install.sh
 ./install.sh
